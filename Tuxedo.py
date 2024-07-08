@@ -1,6 +1,3 @@
-# Programmer: Vyas Rao
-# Date: 2023-12-29
-# Description: Tuxedo card game, this will be a 2player game,
 import random
 import tkinter
 import tkinter.messagebox

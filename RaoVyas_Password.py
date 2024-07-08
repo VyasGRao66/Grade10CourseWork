@@ -1,7 +1,3 @@
-# Vyas Rao
-# 2023-11-21
-# Ask user for password and determine if it is valid or not
-
 PASSWORD = 'abc123'
 THREE_ATTEMPTS = 3
 

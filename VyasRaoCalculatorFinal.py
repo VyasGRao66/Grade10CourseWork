@@ -1,7 +1,3 @@
-# Programmer: Vyas Rao
-# Date: 2023-13-15
-# Discription: Calculator
-
 import tkinter # importing tkinter
 
 
